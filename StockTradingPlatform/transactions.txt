@@ -1,0 +1,4 @@
+===== TRANSACTION HISTORY =====
+BUY TCS Quantity: 2 Price: 3500.0
+SELL TCS Quantity: 1 Price: 3500.0
+BUY WIPRO Quantity: 5 Price: 500.0
